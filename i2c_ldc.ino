@@ -15,7 +15,7 @@ long initial0 = 0;
 long initial3 = 0;
 long min0, min1, min2, min3;
 
-//the up, down, left, and right input panels for the mat were mapped to keyboard keys A, B, C, D using a third-party software JoyToKey
+//the up, down, left, and right input panels for the mat were mapped to keyboard keys A, B, C, D
 
 unsigned long readChannel0()
 {
